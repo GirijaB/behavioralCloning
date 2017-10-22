@@ -111,21 +111,21 @@ To capture good driving behavior, I first recorded two laps on track one using c
 
 `*0 degrees*`
 
-![alt text][center_ex]
+![C:\Users\pjcy0j\CarND_behavioural_cloning_ref2\CarND-Behavioral-Cloning-P3-master\imgs][center_ex]
 
 I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to .... These images show what a recovery looks like starting from ... :
 
 `*+13.5 degrees* `
 
-![alt text][recovery_1] 
+![C:\Users\pjcy0j\CarND_behavioural_cloning_ref2\CarND-Behavioral-Cloning-P3-master\imgs][recovery_1] 
 
 `*+18 degrees*`
 
-![alt text][recovery_2]
+![C:\Users\pjcy0j\CarND_behavioural_cloning_ref2\CarND-Behavioral-Cloning-P3-master\imgs][recovery_2]
 
 `*22.5 degrees*`
 
-![alt text][recovery_3]
+![C:\Users\pjcy0j\CarND_behavioural_cloning_ref2\CarND-Behavioral-Cloning-P3-master\imgs][recovery_3]
 
 Then I repeated this process on track two in order to get more data points.
 
