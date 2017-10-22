@@ -12,15 +12,6 @@ The goals / steps of this project are the following:
 
 ### Here are the links to the videos
 
-#### Track 1
-[![Track 1 video](https://img.youtube.com/vi/5VmdRuLCJSU/0.jpg)](https://www.youtube.com/watch?v=5VmdRuLCJSU)
-
-
-#### Track 2
-[![Track 2 video](https://img.youtube.com/vi/P-dPNZ0L9t4/0.jpg)](https://www.youtube.com/watch?v=P-dPNZ0L9t4)
-
-[//]: # (Image References)
-
 [image1]: ./examples/placeholder.png "Model Visualization"
 [image2]: ./examples/placeholder.png "Grayscaling"
 [center_ex]: ./imgs/center_ex.jpg "center Image"
