@@ -14,12 +14,12 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/placeholder.png "Model Visualization"
 [image2]: ./examples/placeholder.png "Grayscaling"
-[center_ex]: ./imgs/center_ex.jpg "center Image"
-[recovery_1]: ./imgs/recovery1.jpg "Recovery Image"
-[recovery_2]: ./imgs/recovery2.jpg "Recovery Image"
-[recovery_3]: ./imgs/recovery3.jpg "Recovery Image"
-[flipped_recovery_1]: ./imgs/flipped_recovery1.jpg "flipped Recovery Image"
-[flipped_recovery_2]: ./imgs/flipped_recovery2.jpg "flipped Recovery Image"
+[center_ex]: ./center_ex.jpg "center Image"
+[recovery_1]: ./recovery1.jpg "Recovery Image"
+[recovery_2]: ./recovery2.jpg "Recovery Image"
+[recovery_3]: ./recovery3.jpg "Recovery Image"
+[flipped_recovery_1]: ./flipped_recovery1.jpg "flipped Recovery Image"
+[flipped_recovery_2]: ./flipped_recovery2.jpg "flipped Recovery Image"
 
 
 ## Rubric Points
@@ -111,21 +111,21 @@ To capture good driving behavior, I first recorded two laps on track one using c
 
 `*0 degrees*`
 
-![C:\Users\pjcy0j\CarND_behavioural_cloning_ref2\CarND-Behavioral-Cloning-P3-master\imgs][center_ex]
+![alt text][center_ex]
 
 I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to .... These images show what a recovery looks like starting from ... :
 
 `*+13.5 degrees* `
 
-![C:\Users\pjcy0j\CarND_behavioural_cloning_ref2\CarND-Behavioral-Cloning-P3-master\imgs][recovery_1] 
+![alt text][recovery_1] 
 
 `*+18 degrees*`
 
-![C:\Users\pjcy0j\CarND_behavioural_cloning_ref2\CarND-Behavioral-Cloning-P3-master\imgs][recovery_2]
+![alt text][recovery_2] 
 
 `*22.5 degrees*`
 
-![C:\Users\pjcy0j\CarND_behavioural_cloning_ref2\CarND-Behavioral-Cloning-P3-master\imgs][recovery_3]
+![alt text][recovery_3] 
 
 Then I repeated this process on track two in order to get more data points.
 
